@@ -55,5 +55,5 @@ The program should create 22 Footballer objects and assign the following player 
 
 Player names:
 
-Hossein, Maziar, Akbar, Nima, Mahdi, Farhad, Mohammad, Khashayar, Milad, Mostafa, Amin, Saeed, Pouya, Pouria, Reza, Ali, Behzad, Soheil, Behrooz, Shahrooz, Saman, Mohsen
+حسین - مازیار - اکبر - نیما -  مهدی - فرهاد - محمد - خشایار - میلاد - مصطفی - امین - سعید - پویا - پوریا - رضا - علی - بهزاد - سهیل - بهروز - شهروز - سامان - محسن
 
