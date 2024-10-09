@@ -1,8 +1,11 @@
 سلام! در این مخزن پروژه‌های دوره پایتون پیشرفته جادی رو قرار دادم.
+
 در پایین لینک دوره در مکتبخونه رو گذاشتم.
+
 یادتون باشه همیشه اول خودتون تلاش کنید بعد به حل نگاه کتید ;)
 
 Hi! In this repository, I have included the projects from Jadi's advanced Python course.
+
 Below, I’ve provided the link to the course on Maktabkhooneh.
 
 
