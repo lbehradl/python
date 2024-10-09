@@ -2,8 +2,7 @@
 
 127.0.0.1:8000/mainpage/
 
-
-
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
 
 Write a Django application that displays the sentence "My first page" at the following URL:
 
