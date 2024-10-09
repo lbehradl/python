@@ -34,6 +34,6 @@ Write a program that extracts and prints all the listings on the first page of D
 -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
 
 Project 3: Web Scraping
-Write a program that scrapes the website Scrapethissite to retrieve the name, capital, population, and area of the first 20 countries, then stores this information in a custom database.
+Write a program that scrapes the website [Scrapethissite](https://www.scrapethissite.com/pages/simple/) to retrieve the name, capital, population, and area of the first 20 countries, then stores this information in a custom database.
 
 -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
