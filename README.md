@@ -4,6 +4,9 @@
 
 یادتون باشه همیشه اول خودتون تلاش کنید بعد به حل نگاه کتید ;)
 
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+
+
 Hi! In this repository, I have included the projects from Jadi's advanced Python course.
 
 Below, I’ve provided the link to the course on Maktabkhooneh.
